@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "472781465928",
+    "firebase_url": "https://zodiac-ea903.firebaseio.com",
+    "project_id": "zodiac-ea903",
+    "storage_bucket": "zodiac-ea903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472781465928:android:cb9f1d7724f3e15bab2b7d",
+        "android_client_info": {
+          "package_name": "com.example.st"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472781465928-r06qs07lbs9uro5ni86i9jkme78e609e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.st",
+            "certificate_hash": "9211d0d29426176f3b093ccffd23daf3cd1e963d"
+          }
+        },
+        {
+          "client_id": "472781465928-g0n3ats0d7dd93j939nneq30g0n1lcls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rPv9IxT1z8tz53aLk2bhxHIyPY4cINI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472781465928-g0n3ats0d7dd93j939nneq30g0n1lcls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472781465928:android:0a7bee8c3bacdcbbab2b7d",
+        "android_client_info": {
+          "package_name": "com.example.zodiac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472781465928-ptpbqgqvg614qjc9sts2nbv0ep3e6kck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zodiac",
+            "certificate_hash": "9211d0d29426176f3b093ccffd23daf3cd1e963d"
+          }
+        },
+        {
+          "client_id": "472781465928-g0n3ats0d7dd93j939nneq30g0n1lcls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rPv9IxT1z8tz53aLk2bhxHIyPY4cINI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472781465928-g0n3ats0d7dd93j939nneq30g0n1lcls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472781465928:android:fe3042f1a9057346ab2b7d",
+        "android_client_info": {
+          "package_name": "com.example.zodiac_nlp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472781465928-6kugs8jadp60p2rq5jn5tg1v745k9fmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zodiac_nlp",
+            "certificate_hash": "9211d0d29426176f3b093ccffd23daf3cd1e963d"
+          }
+        },
+        {
+          "client_id": "472781465928-g0n3ats0d7dd93j939nneq30g0n1lcls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rPv9IxT1z8tz53aLk2bhxHIyPY4cINI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472781465928-g0n3ats0d7dd93j939nneq30g0n1lcls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
