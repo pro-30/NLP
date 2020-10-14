@@ -2,7 +2,6 @@
 """
 Created on Sun Oct 20 03:29:01 2019
 
-@author: Kshitiz Srivastava
 """
 
 from sklearn.datasets import fetch_20newsgroups
